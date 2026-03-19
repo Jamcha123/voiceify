@@ -1,0 +1,35 @@
+{
+  "name": "voiceify",
+  "version": "1.0.1",
+  "description": "voiceai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamcha123/voiai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Jamcha123/voiai/issues"
+  },
+  "homepage": "https://github.com/Jamcha123/voiai",
+  "dependencies": {
+    "@openai/agents": "^0.7.2",
+    "axios": "^1.13.6",
+    "cheerio": "^1.2.0",
+    "debately": "^1.0.9",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "firebase": "^12.10.0",
+    "openai": "^6.32.0",
+    "puppeteer": "^24.39.1",
+    "socket.io": "^4.8.3",
+    "stripe": "^20.4.1",
+    "ws": "^8.19.0"
+  }
+}
